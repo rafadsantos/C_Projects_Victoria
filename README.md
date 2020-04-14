@@ -7,6 +7,6 @@
     -> C/C++ do danielpinto8zz6
 -> instalar MinGW:
     -> osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
--> abra o <arquivo>.c
+-> abra o arquivo.c
 -> aperte F6
 Fonte: youtube.com/watch?v=aXVzbzwZuYc
