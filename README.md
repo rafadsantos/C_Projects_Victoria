@@ -1,5 +1,5 @@
 # 3 programas desenvolvidos em C
- Auxílio à colega Victória da disciplina de English.
+ Auxílio à colega Victória da disciplina de English em 2015.
 
 # Para compilar e executar um programa no Visual Studio Code:
 -> instalar as extensões:
